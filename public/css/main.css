@@ -2,3 +2,7 @@ body {
     background-color: #aaaaaa;
     color: #222222;
 }
+
+nav {
+    margin-bottom: 30px;
+}
