@@ -1,0 +1,22 @@
+body {
+    background-color: #aaaaaa;
+    color: #222222;
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+#resumeContact p {
+    margin: 0 auto;
+    font-size: .8em;
+}
+#resume h1 {
+    margin-bottom: 0;
+}
+#resume hr {
+    background-color: rgb(65, 59, 59);
+}
+#objective {
+    margin-left: 3em;
+}
